@@ -6,5 +6,5 @@ My configuration files, made from other readings on the web.
 
 Files available in the following directories.
 
-* .vimrc
-* .tmux.conf
+* vim/vimrc
+* tmux/tmux.conf
